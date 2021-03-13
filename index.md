@@ -69,4 +69,3 @@ A complete list of my publications and posters is on [Google Schoolar](https://s
 * Schmidt, Elvira, Johanna Lister, Monika Neumann, Witold Wiecek, Shuai Fu, Anne-Lise Vataire, Jelena Sostar, Shengnan Huang, and Florence Marteau. _Cabozantinib Versus Standard-of-Care Comparators in the Treatment of Advanced/Metastatic Renal Cell Carcinoma in Treatment-Naïve Patients: A Systematic Review and Network Meta-Analysis._ Targeted Oncology 13, no. 2 (April 2018): 205–16. <https://doi.org/10.1007/s11523-018-0559-0>.
 * Wiecek, Witold, and Helene Karcher. _Nivolumab versus Cabozantinib: Comparing Overall Survival in Metastatic Renal Cell Carcinoma._ PloS One 11, no. 6 (2016): e0155389. <https://doi.org/10.1371/journal.pone.0155389>.
 
-
